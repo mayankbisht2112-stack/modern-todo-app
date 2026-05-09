@@ -8,7 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(soft-pastel-gradient-background-smooth-color-blend-motion-video.webp)
+    background: url(Assets/Background-image.webp)
      no-repeat center center/cover; 
      /*
     it will keep bg image in the center and will resize the image accordingly no repeat will happen will not tile again and again */
