@@ -25,6 +25,6 @@ A responsive and interactive To-Do List web application built using HTML, CSS, a
 - Tasks are saved in localStorage so data persists after refresh.
 
 ## Live Demo
-- 
+-  https://mayankbisht2112-stack.github.io/modern-todo-app/
 ## Author
 Mayank Bisht
